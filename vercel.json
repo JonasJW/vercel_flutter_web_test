@@ -1,0 +1,12 @@
+{
+    "rewrites": [
+        {
+            "source": "/home/questionnaire",
+            "destination": "/"
+        },
+        {
+            "source": "/home",
+            "destination": "/"
+        }
+    ]
+}
